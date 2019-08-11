@@ -1,5 +1,6 @@
 file-2()
 {
 	line-1
+	THIS LINE IS FOR NEW VERISON
 	line-2 changes 3
 }
